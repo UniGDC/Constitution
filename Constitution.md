@@ -1,14 +1,14 @@
-Game Development Club Constitution
+# Game Development Club Constitution
 
 
 
-Article I : NAME
+## Article I : NAME
 
 1.1. The name of the club shall be Game Development Club, and shall be formally known as UniGDC.
 
 
 
-Article II : PURPOSE AND INVOLVMENT
+## Article II : PURPOSE AND INVOLVMENT
 
 2.1. The purpose of the club is:
 
@@ -20,7 +20,7 @@ Article II : PURPOSE AND INVOLVMENT
 
 
 
-Article III : ELIGIBILITY
+## Article III : ELIGIBILITY
 
 3.1. The club shall be opened to all University High School students who:
 
@@ -30,7 +30,7 @@ Article III : ELIGIBILITY
 
 
 
-Article IV : ELECTION OF OFFICERS
+## Article IV : ELECTION OF OFFICERS
 
 4.1. The election of the board shall be held every project.
 
@@ -40,7 +40,7 @@ Article IV : ELECTION OF OFFICERS
 
 
 
-Article V : OFFICER RESPONSIBILITIES
+## Article V : OFFICER RESPONSIBILITIES
 
 5.1. It shall be the duty of the Executive Director to:
 
@@ -94,7 +94,7 @@ Article V : OFFICER RESPONSIBILITIES
 
 
 
-Article VI : MEETINGS
+## Article VI : MEETINGS
 
 6.1. The regular club meeting shall be held every Wednesdays during lunch.
 
@@ -110,7 +110,7 @@ Article VI : MEETINGS
 
 
 
-Article VII : FINANCES
+## Article VII : FINANCES
 
 7.1. The club shall not be allowed to perform any kind of financial activity without the supervision of the Board's Treasurer.
 
@@ -118,7 +118,7 @@ Article VII : FINANCES
 
 
 
-Article VIII : OPEN-ENDED
+## Article VIII : OPEN-ENDED
 
 8.1. The club's documents, including the Constitution, shall not be amended without 2/3 majoriy vote of the members present.
 
